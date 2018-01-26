@@ -1,0 +1,9 @@
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\bin\Debug\Greenville Revenue Gui.exe.config
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\bin\Debug\Greenville Revenue Gui.exe
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\bin\Debug\Greenville Revenue Gui.pdb
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\obj\Debug\Greenville Revenue Gui.csprojResolveAssemblyReference.cache
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\obj\Debug\Greenville_Revenue_Gui.Form1.resources
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\obj\Debug\Greenville_Revenue_Gui.Properties.Resources.resources
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\obj\Debug\Greenville Revenue Gui.csproj.GenerateResource.Cache
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\obj\Debug\Greenville Revenue Gui.exe
+c:\users\momentary\documents\visual studio 2015\Projects\Greenville Revenue Gui\Greenville Revenue Gui\obj\Debug\Greenville Revenue Gui.pdb
